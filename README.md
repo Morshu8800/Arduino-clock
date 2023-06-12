@@ -36,10 +36,10 @@ The project was created for my learning to program and this is my first big proj
 - Time setting only from PC;
 - The simplest energy saving system has been created.
 
-#Version 1.1
+# Version 1.1
 - Nothing special, just an increase in screen time.
 
-#Version 1.2
+# Version 1.2
 - Many changes;
 - You can set the time from the device;
 - energy saving library included;
