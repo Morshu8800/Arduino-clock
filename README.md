@@ -1,7 +1,7 @@
 # Arduino-clock
 # Ардуино часы
 
-# Русский
+Русский
 
 Обычные часы на Ардуино с функцией будильника и измерения температуры и влажности на базе МК ATmega 328...
 Проект был создан ради моего обучения программированию и это мой первый большой проект.
@@ -24,7 +24,7 @@
 - Изменена индикация будильника.
  
  
-# English
+English
 
 Conventional Arduino clock with alarm function and temperature and humidity measurement based on MK ATmega 328...
 The project was created for my learning to program and this is my first big project.
